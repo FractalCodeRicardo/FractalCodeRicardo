@@ -47,5 +47,6 @@ https://www.youtube.com/@ProgrammingHeadache/videos
 
 ---
 
-🔗 **LinkedIn:** https://www.linkedin.com/in/YOUR-LINKEDIN-HERE  
+🔗 **LinkedIn:** https://www.linkedin.com/in/ricardo-serrato-barrera-26982170/
+
 📱 **Google Play:** https://play.google.com/store/apps/developer?id=Ricardo+Serrato+B
