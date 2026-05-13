@@ -41,7 +41,7 @@ https://medium.com/@nosilverbullet
 ---
 
 ### 🌐 Website  
-https://www.youtube.com/@ProgrammingHeadache/videos  
+https://programmingheadache.com
 
 ---
 
