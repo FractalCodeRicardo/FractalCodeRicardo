@@ -1,29 +1,7 @@
-Full Stack Developer (M.C.S.) with 15+ years of professional experience
+I'dont know what to do with myself.
 
-Too much has happened since my first line of code. Here is a brief résumé:
-
-**2004 – 2009**  
-As a university student, I was involved in multiple business projects using Java, MySQL, and SQL Server.
-
-**2009 – 2011**  
-During my master’s degree, I developed numerical software related to Newton’s method.
-
-**2012**  
-I worked as a university professor, teaching software engineering, programming, and network security.
-
-**2012 – 2019**  
-I spent seven years designing and developing CRM, ERP, and financial software using .NET desktop technologies.
-
-**2019 – 2023**  
-I worked for four years developing and maintaining a low-code platform, involving web, mobile, and desktop development, as well as AWS and Google Cloud.
-
-**2023 – 2024**  
-I built finance and CFDI (Mexican digital tax receipt) apps and launched my personal brand “Programming Headache.”
-
-**2024 – 2025**  
-I returned to .NET development, working on POS and CRM systems.
-
-Right now, I am focused on growing my YouTube channel and building my career as a self-employed software developer.
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FractalCodeRicardo&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=FractalCodeRicardo&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
 
 ---
 
